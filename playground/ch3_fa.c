@@ -21,6 +21,7 @@ int main(){
     printf("%i\n", i);
   }
 
+  // For loop example
   for(int i=0; i<10; i++){
     puts("For loop example");
   }
